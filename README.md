@@ -1,4 +1,4 @@
-![think plan execute 1](https://user-images.githubusercontent.com/80714882/200163552-7ffffcaf-e94f-46d2-99f4-84dd4bc578c3.png)
+![GitHub Banner](https://user-images.githubusercontent.com/80714882/200172123-4bd162c7-ef93-4365-a4b0-0729d9a019a2.gif)
 
 
 **`Electronics Engineer`**
