@@ -6,8 +6,8 @@ I am an embedded systems developer who believes technology can really create a d
 
 ## Interests
 
-![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=flat-square)
+![Badge](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square)
 
 - Currently I am into programming Microcontrollers and developing Embedded Systems.
 - I also have interest in Machine Learning and Artificial Intelligence.
