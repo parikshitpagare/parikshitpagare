@@ -4,8 +4,36 @@
 
 I am an embedded systems developer who believes technology can really create a difference in quality of life. The projects and other related work on my profile have been developed from scratch applying my knowledge and skills. I am passionate about my work just like anyone else but my passion comes from a mindset of creating a better world.
 
-# My Knowledge and Skills
+## Interests
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb)
+![Badge](https://img.shields.io/badge/Machine_Learning-orange)
 
-I am constantly learning and updating as we learn something new everyday.
+- Currently I am into programming Microcontrollers and developing Embedded Systems.
+- I also have interest in Machine Learning and Artificial Intelligence.
+
+## Skills and Knowledge
+
+> *I am constantly learning and updating because we learn something new everyday.*
+
+#### Micro-controllers 
+- ARM Cortex M4 based STM32 
+- ESP32 
+- AVR (including Arduino)
+
+#### Programming languages 
+- C and Embedded C
+
+#### Communication protocols  
+- I2C, SPI, UART 
+- Bluetooth
+
+#### Micro-controller peripherals 
+- GPIO, ADC, Timers, PWM, Interrupts
+
+#### Real time operating systems 
+- FreeRTOS
+
+#### Integrated development environment 
+- STM32Cube 
+- Mbed Studio
