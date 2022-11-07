@@ -33,7 +33,3 @@ I am an embedded systems developer who believes technology can really create a d
 
 #### Real time operating systems 
 - FreeRTOS
-
-#### Integrated development environment 
-- STM32Cube 
-- Mbed Studio
