@@ -9,17 +9,19 @@ The projects and other related work on my profile have been developed from scrat
 # Interests
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![Badge](https://img.shields.io/badge/AI/ML-orange?style=for-the-badge)
 
 - Embedded Software
 - Automotive Embedded System
-- Machine Learning and Artificial Intelligence.
+- Machine Learning and Artificial Intelligence
+- Robotics
 
 # Skills and Experience
 
 > *I am constantly learning and updating because we learn something new everyday.*
 
-- I have hands on experience with interfacing micro-controllers like ARM Cortex M4 based STM32, AVR and Arduino with various sensors, inputs, displays and motors.
+- I have worked with 8, 16 and 32 bit micro-controllers like ARM Cortex M4 based STM32, AVR and Arduino.
+- I have hands on experience with interfacing microcontrollers with with various sensors, inputs, displays and motors.
 
 ### Tools and Technologies 
 
