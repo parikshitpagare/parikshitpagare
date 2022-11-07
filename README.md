@@ -2,26 +2,31 @@
 
 # Hi, I am Parikshit 👋
 
-I am an Embedded Systems Developer who believes technology can really create a difference in quality of life. The projects and other related work on my profile have been developed from scratch applying my knowledge and skills. I am passionate about my work just like anyone else but my passion comes from a mindset of creating a better world.
+I am an Electronics Engineer currently focusing on Embedded Software. I believe technology can really create a difference in quality of life. I am passionate about my work just like anyone else but my passion comes from a mindset of creating a better world.
+
+The projects and other related work on my profile have been developed from scratch applying my knowledge and skills.
 
 # Interests
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
 
-- Currently I am into programming Microcontrollers and developing Embedded Systems.
-- I also have interest in Machine Learning and Artificial Intelligence.
+- Embedded Software
+- Automotive Embedded System
+- Machine Learning and Artificial Intelligence.
 
-# What can I do?
-- I have working knowledge of interfacing micro-controllers with various sensors, displays and motors.
+# Skills and Experience
 
+> *I am constantly learning and updating because we learn something new everyday.*
 
-### Skills and Knowledge
+- I have hands on experience with interfacing micro-controllers like ARM Cortex M4 based STM32, AVR and Arduino with various sensors, inputs, displays and motors.
 
-> ***I am constantly learning and updating because we learn something new everyday.***
+### Tools and Technologies 
+
+### Skills Summary
 
 <details>
-<summary>Click to know about my skills</summary>
+<summary> Click here for complete summary of my skills </summary>
 
 #### Micro-controllers 
 - ARM Cortex M4 based STM32 
