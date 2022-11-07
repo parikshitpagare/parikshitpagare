@@ -20,8 +20,8 @@ The projects and other related work on my profile have been developed from scrat
 
 > *I am constantly learning and updating because we learn something new everyday.*
 
-- I have worked with 8, 16 and 32 bit micro-controllers like ARM Cortex M4 based STM32, ESP32, AVR and Arduino.
-- I have hands on experience with interfacing microcontrollers with various sensors, inputs, displays and motors.
+- I have worked on 8, 16 and 32 bit micro-controllers from STMicroelectronics, Espressif, AVR (Microchip) and Arduino.
+- I have hands on experience with interfacing these microcontrollers with various sensors, inputs, displays and motors.
 
 ### Tools and Technologies 
 
@@ -33,7 +33,8 @@ The projects and other related work on my profile have been developed from scrat
 #### Micro-controllers 
 - ARM Cortex M4 based STM32 
 - ESP32 
-- AVR (including Arduino)
+- AVR 
+- Arduino
 
 #### Programming Languages 
 - C and Embedded C
