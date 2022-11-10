@@ -2,9 +2,9 @@
 
 # Hi, I am Parikshit 👋
 
-I am an Electronics Engineer currently focusing on Embedded Software. I believe technology can really create a difference in quality of life. I am passionate about my work just like anyone else but my passion comes from a mindset of creating a better world.
+I am an Electronics Engineer currently focusing on Embedded Software Development. I believe technology can really improve quality of life. I am passionate about my work just like anyone else but my passion comes from a mindset of creating a better world.
 
-The projects and other related work on my profile have been developed from scratch applying my knowledge and skills.
+All the projects and related work on my profile have been developed from scratch applying my knowledge and skills.
 
 # Interests
 
@@ -14,16 +14,16 @@ The projects and other related work on my profile have been developed from scrat
 - Embedded Software
 - Automotive Embedded System
 - Machine Learning and Artificial Intelligence
-- Robotics
+- Mobile Robotics
 
 # Skills and Experience
 
-> *I am constantly learning and updating because we learn something new everyday.*
+> *I am constantly learning and updating because learning is a never ending process.*
 
-- I have worked on 8, 16 and 32 bit micro-controllers from STMicroelectronics, Espressif, AVR (Microchip) and Arduino.
-- I have hands on experience with interfacing these microcontrollers with various sensors, inputs, displays and motors.
-
-### Tools and Technologies 
+- Worked on ARM Cortex M4 based STM32 microcontroller using baremetal programming and Mbed environment.
+- Programmed 8 and 32 bit microcontrollers like ESP32, ATmega 328p and Arduino using C and Embedded C.
+- Developed system using RTOS.
+- Have hands on experience with interfacing various sensors, inputs, displays and motors.
 
 ### Skills Summary
 
@@ -54,3 +54,5 @@ The projects and other related work on my profile have been developed from scrat
  - Mbed Studio 
  - Atmel(Microchip) Studio
 </details>
+
+### Tools and Technologies 
