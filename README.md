@@ -16,25 +16,22 @@ All the projects and related work on my profile have been developed from scratch
 - Machine Learning and Artificial Intelligence
 - Mobile Robotics
 
-# Skills and Experience
+# Experience and Skills
 
 > *I am constantly learning and updating because learning is a never ending process.*
 
-- Worked on ARM Cortex M4 based STM32 microcontroller using baremetal programming and Mbed environment.
-- Programmed 8 and 32 bit microcontrollers like ESP32, ATmega 328p and Arduino using C and Embedded C.
-- Developed system using RTOS.
-- Have hands on experience with interfacing various sensors, inputs, displays and motors.
+- Worked on following 8 and 32 bit microcontrollers using bare-metal programming as well as device specific API's,
+  - ARM Cortex M4 based STM32 
+  - ESP32
+  - AVR ATmega
+  - Arduino
 
-### Skills Summary
+- Interfaced multiple sensors, I/O, displays and motors with above microcontrollers.
+
+### Skills and Tools Summary
 
 <details>
 <summary> Click here for complete summary of my skills </summary>
-
-#### Micro-controllers 
-- ARM Cortex M4 based STM32 
-- ESP32 
-- AVR 
-- Arduino
 
 #### Programming Languages 
 - C and Embedded C
@@ -43,7 +40,7 @@ All the projects and related work on my profile have been developed from scratch
 - I2C, SPI, UART 
 - Bluetooth
 
-#### Micro-controller Peripherals 
+#### Peripherals 
 - GPIO, ADC, Timers, PWM, Interrupts
 
 #### Real time operating systems 
@@ -53,6 +50,6 @@ All the projects and related work on my profile have been developed from scratch
  - STM32Cube
  - Mbed Studio 
  - Atmel(Microchip) Studio
+
 </details>
 
-### Tools and Technologies 
