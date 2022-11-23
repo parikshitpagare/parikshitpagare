@@ -26,7 +26,7 @@ All the projects and related work on my profile have been developed from scratch
   - AVR ATmega
   - Arduino
 
-- Interfaced multiple sensors, I/O, displays and motors with above microcontrollers.
+- Have hands on experience with interfacing multiple sensors, I/O, displays and motors with above microcontrollers.
 
 ### Skills and Tools Summary
 
