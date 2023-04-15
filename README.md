@@ -11,7 +11,7 @@
 
 I am an Embedded Software Developer with a background in Electronics Engineering. Developing systems with a combination of hardware and software is something I have always been passionate about. 
 
-As a self taught programmer, I found microcontroller programming more exciting due its vast applications in real world. 
+As a self taught programmer, I find microcontroller programming more exciting due its vast applications in real world. 
 
 All the projects I share are developed from scratch applying my knowledge and skills.
 
