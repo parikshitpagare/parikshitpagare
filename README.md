@@ -1,6 +1,7 @@
-![GitHub Banner](https://user-images.githubusercontent.com/80714882/200172123-4bd162c7-ef93-4365-a4b0-0729d9a019a2.gif)
+![GitHub Banner](https://user-images.githubusercontent.com/80714882/232319478-09602c5d-7ea9-45eb-8c7d-a25d37f9c87f.png)
 
 # Its me, @parikshitpagare 👋
+
 
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=flat-square&color=lightgrey&&label=Profile+Views)
 
