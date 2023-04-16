@@ -2,7 +2,6 @@
 
 # Its me, @parikshitpagare 👋
 
-
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=flat-square&color=lightgrey&&label=Profile+Views)
 
 <a href="https://linkedin.com/in/parikshitpagare"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
