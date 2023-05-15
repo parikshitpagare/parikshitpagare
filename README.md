@@ -16,6 +16,14 @@ As a self taught programmer, I find microcontroller programming most exciting du
 
 All the projects I share are developed from scratch applying my knowledge and skills.
 
+## Overview
+
+![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
+
+![Parikshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues&title_color=9f9f9f&icon_color=9f9f9f&text_color=1f6feb)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&theme=transparent&title_color=9f9f9f&text_color=1f6feb)
+
 ## Interests
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
@@ -28,9 +36,12 @@ All the projects I share are developed from scratch applying my knowledge and sk
 - Internet of Things
 - Mobile Robotics
 
-## Overview
 
-![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
+## Tools & Technologies
 
-![Parikshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues&title_color=9f9f9f&icon_color=9f9f9f&text_color=1f6feb)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/ST-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
+</p>
