@@ -41,8 +41,11 @@ All the projects I share are developed from scratch applying my knowledge and sk
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ST-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/ST Microelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Microchip-ec1d1b?style=for-the-badge">
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
+  <img src="https://img.shields.io/badge/FreeRTOS-4bbb4f?style=for-the-badge">
 </p>
+
