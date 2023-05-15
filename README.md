@@ -20,10 +20,12 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/AI/ML-orange?style=for-the-badge)
+![Badge](https://img.shields.io/badge/IOT-lightgrey?style=for-the-badge)
 
 - Embedded Software
 - Automotive Embedded System
 - Machine Learning and Artificial Intelligence
+- Internet of Things
 - Mobile Robotics
 
 
