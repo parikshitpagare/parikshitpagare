@@ -30,7 +30,7 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ## Overview
 
-![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=lightgrey&&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
 
 ![Parikshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues)
 
