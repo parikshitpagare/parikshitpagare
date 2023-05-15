@@ -8,7 +8,7 @@
 <a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
 <a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-DBDBDB?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
 
-## About Me
+### About Me
 
 I am an Embedded Software Developer with a background in Electronics Engineering. Developing systems with a combination of hardware and software is something I have always been passionate about. 
 
@@ -16,15 +16,7 @@ As a self taught programmer, I find microcontroller programming most exciting du
 
 All the projects I share are developed from scratch applying my knowledge and skills.
 
-## Overview
-
-![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
-
-![Parikshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues&title_color=9f9f9f&icon_color=9f9f9f&text_color=1f6feb)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&theme=transparent&title_color=9f9f9f&text_color=1f6feb)
-
-## Interests
+### My Interests
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/AI/ML-orange?style=for-the-badge)
@@ -36,8 +28,17 @@ All the projects I share are developed from scratch applying my knowledge and sk
 - Internet of Things
 - Mobile Robotics
 
+---
 
-## Tools & Technologies
+### Overview
+
+![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
+
+![Parikshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues&title_color=9f9f9f&icon_color=9f9f9f&text_color=1f6feb)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&theme=transparent&title_color=9f9f9f&text_color=1f6feb)
+
+### Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/ST-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
