@@ -2,13 +2,14 @@
 
 # Its me, @parikshitpagare 👋
 
-![](https://komarev.com/ghpvc/?username=parikshitpagare&style=flat-square&color=lightgrey&&label=Profile+Views)
+> **I truly believe technology can help create a better world and improve quality of life. Technology like art is a soaring exercise of the human imagination.**  
 
+![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=lightgrey&&label=Profile+Views)
 <a href="https://linkedin.com/in/parikshitpagare"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
 <a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
 <a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-DBDBDB?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
 
-> **I truly believe technology can help create a better world and improve quality of life.**  
+## About Me
 
 I am an Embedded Software Developer with a background in Electronics Engineering. Developing systems with a combination of hardware and software is something I have always been passionate about. 
 
@@ -27,7 +28,6 @@ All the projects I share are developed from scratch applying my knowledge and sk
 - Machine Learning and Artificial Intelligence
 - Internet of Things
 - Mobile Robotics
-
 
 
 
