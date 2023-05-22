@@ -20,7 +20,7 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/AI/ML-orange?style=for-the-badge)
-![Badge](https://img.shields.io/badge/IOT-lightgrey?style=for-the-badge)
+![Badge](https://img.shields.io/badge/IOT-dbdbdb?style=for-the-badge)
 
 - Embedded Software
 - Automotive Embedded System
@@ -34,9 +34,9 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
 
-![Parikshit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parikshitpagare&show_icons=true&theme=transparent&hide=contribs,issues&title_color=555555&icon_color=555555&text_color=1f6feb)
+![Parikshit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parikshitpagare&show_icons=true&hide=contribs,issues&title_color=555555&icon_color=555555&text_color=1f6feb&bg_color=dbdbdb)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&theme=transparent&title_color=555555&text_color=1f6feb)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&title_color=555555&text_color=1f6feb&bg_color=dbdbdb)
 
 ### Tools & Technologies
 
