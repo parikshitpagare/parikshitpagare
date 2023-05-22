@@ -36,7 +36,7 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![Parikshit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parikshitpagare&show_icons=true&hide=contribs,issues&title_color=555555&icon_color=555555&text_color=1f6feb&bg_color=dbdbdb)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&title_color=555555&text_color=1f6feb&bg_color=dbdbdb)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&title_color=555555&text_color=555555&bg_color=dbdbdb)
 
 ### Tools & Technologies
 
