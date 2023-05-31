@@ -23,9 +23,8 @@ All the projects I share are developed from scratch applying my knowledge and sk
 ![Badge](https://img.shields.io/badge/IOT-d0d7de?style=for-the-badge)
 
 - Embedded Software
-- Automotive Embedded System
-- Machine Learning and Artificial Intelligence
 - Internet of Things
+- Machine Learning and Artificial Intelligence
 - Mobile Robotics
 
 ---
