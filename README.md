@@ -1,4 +1,4 @@
-![GitHub Banner](https://user-images.githubusercontent.com/80714882/232319478-09602c5d-7ea9-45eb-8c7d-a25d37f9c87f.png)
+![GitHub Banner](https://github.com/parikshitpagare/parikshitpagare/assets/80714882/4b42e2c0-ef18-48e8-88b7-dd78241fc6e6)
 
 # Its me, @parikshitpagare 👋
 
