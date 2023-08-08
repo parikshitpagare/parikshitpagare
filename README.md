@@ -27,8 +27,6 @@ All the projects I share are developed from scratch applying my knowledge and sk
 - Machine Learning and Artificial Intelligence
 - Mobile Robotics
 
----
-
 ### Overview
 
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
