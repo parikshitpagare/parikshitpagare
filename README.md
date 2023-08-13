@@ -10,7 +10,7 @@
 <a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
 <a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-d0d7de?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
 
-I am an Electronics Engineer with a passion for both electronics and software development. Developing systems with a combination of hardware and software is something I have always enjoyed the most. 
+I am an Electronics Engineer with a passion for both electronics and software development. Developing systems with a combination of hardware and software is something I have always enjoyed. 
 
 As a self taught programmer, I find microcontroller programming most exciting due its vast applications in real world. I have worked on multiple 8/32 bit microcontrollers and have experience with baremetal programming. 
 
