@@ -18,10 +18,6 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ### My Interests
 
-![Badge](https://img.shields.io/badge/Embedded_Systems-1f6feb?style=for-the-badge)
-![Badge](https://img.shields.io/badge/AI/ML-orange?style=for-the-badge)
-![Badge](https://img.shields.io/badge/IOT-d0d7de?style=for-the-badge)
-
 - Embedded Software
 - Internet of Things
 - Machine Learning and Artificial Intelligence
