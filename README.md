@@ -19,7 +19,7 @@ All the projects I share are developed from scratch applying my knowledge and sk
 ### My Interests
 
 - Embedded Systems
-- Internet of Things
+- Internet of Things (IOT)
 - Machine Learning
 - Mobile Robotics
 
