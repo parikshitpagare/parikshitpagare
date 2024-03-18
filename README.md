@@ -6,9 +6,14 @@
 
 ## About Me
 
-<a href="https://linkedin.com/in/parikshitpagare"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
-<a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
-<a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-d0d7de?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
+<p align="left">
+  <a href="https://linkedin.com/in/parikshitpagare"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
+</p>
+
+<p align="left">
+  <a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
+  <a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-d0d7de?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
+</p>
 
 I am an Electronics Engineer with a passion for both electronics and software development. Developing systems with a combination of hardware and software is something I have always enjoyed. 
 
