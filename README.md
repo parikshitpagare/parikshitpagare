@@ -4,7 +4,7 @@
 
 > ***I truly believe technology can help create a better world and improve quality of life. Technology like art is a soaring exercise of the human imagination.***  
 
-### About Me
+## About Me
 
 <a href="https://linkedin.com/in/parikshitpagare"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white.svg"/></a>
 <a href="https://youtube.com/@parikshitpagare"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white.svg"/></a>
@@ -16,14 +16,14 @@ As a self taught programmer, I find microcontroller programming most exciting du
 
 All the projects I share are developed from scratch applying my knowledge and skills.
 
-### My Interests
+## My Interests
 
 - Embedded Systems
 - Internet of Things (IOT)
 - Machine Learning
 - Mobile Robotics
 
-### Overview
+## Overview
 
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
 
@@ -31,14 +31,18 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&title_color=212121&text_color=212121&bg_color=d0d7de)
 
-### Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/ST Microelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Microchip-ec1d1b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
-  <img src="https://img.shields.io/badge/FreeRTOS-4bbb4f?style=for-the-badge">
 </p>
 
+ <p align="left">
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
+
+ </p>
+ <p align="left">
+  <img src="https://img.shields.io/badge/FreeRTOS-4bbb4f?style=for-the-badge">
+</p>
