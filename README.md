@@ -32,7 +32,7 @@ All the projects I share are developed from scratch applying my knowledge and sk
 
 ![](https://komarev.com/ghpvc/?username=parikshitpagare&style=for-the-badge&color=1f6feb&&label=Profile+Views)
 
-![Parikshit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parikshitpagare&show_icons=true&hide=contribs,issues&title_color=212121&icon_color=212121&text_color=1f6feb&bg_color=d0d7de)
+<!-- ![Parikshit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parikshitpagare&show_icons=true&hide=contribs,issues&title_color=212121&icon_color=212121&text_color=1f6feb&bg_color=d0d7de)  -->
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parikshitpagare&layout=compact&title_color=212121&text_color=212121&bg_color=d0d7de)
 
