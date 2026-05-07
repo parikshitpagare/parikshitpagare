@@ -15,11 +15,11 @@
   <a href="https://www.reddit.com/user/parikshitpagare"><img src="https://img.shields.io/badge/Reddit-d0d7de?style=for-the-badge&logo=reddit&logoColor=white.svg"/></a>
 </p>
 
-I am an Electronics Engineer with a passion for both electronics and software development. Developing systems with a combination of hardware and software is something I have always enjoyed. 
+Passionate about embedded systems, backend development, electronics, and software engineering with hands-on experience in building complete hardware-software solutions from scratch.
 
-As a self taught programmer, I find microcontroller programming most exciting due its vast applications in real world. I have worked on multiple 8/32 bit microcontrollers and have experience with baremetal programming. 
+Experienced in working with 8-bit and 32-bit microcontrollers, bare-metal programming, peripheral interfacing, low-level firmware development, and system integration. Strong interest in designing scalable and reliable systems that combine embedded devices with backend infrastructure and software services.
 
-All the projects I share are developed from scratch applying my knowledge and skills.
+Skilled in backend servers, APIs, Linux-based systems, self-hosted infrastructure, and end-to-end system architecture alongside hardware and firmware development.
 
 ## My Interests
 
