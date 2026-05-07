@@ -23,10 +23,11 @@ Skilled in backend servers, APIs, Linux-based systems, self-hosted infrastructur
 
 ## My Interests
 
-- Embedded Systems
-- Internet of Things (IOT)
+- Embedded Systems & Firmware Development
+- Backend Infrastructure & Self-Hosted Systems
+- Internet of Things (IoT)
+- System Architecture & Automation
 - Machine Learning
-- Mobile Robotics
 
 ## Overview
 
