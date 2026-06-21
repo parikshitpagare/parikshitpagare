@@ -2,7 +2,7 @@
 
 # Its me, @parikshitpagare 👋
 
-> ***I truly believe technology can help create a better world and improve quality of life. Technology like art is a soaring exercise of the human imagination.***  
+> ***Technology like art is a soaring exercise of the human imagination.***  
 
 ## About Me
 
